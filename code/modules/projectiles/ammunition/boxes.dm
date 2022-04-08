@@ -358,12 +358,14 @@
 	icon_state = "box223-ap-laser"
 	ammo_type = /obj/item/ammo_casing/beam/ap
 	max_ammo = 200
+	w_class = ITEM_SIZE_BULKY
 
 /obj/item/ammo_magazine/ammobox/laser_223/lethal/box
 	name = "ammunition box (.223 DL)"
 	icon_state = "box223-lethal-laser"
 	ammo_type = /obj/item/ammo_casing/beam
 	max_ammo = 200
+	w_class = ITEM_SIZE_BULKY
 
 ////.50 kurtz
 
